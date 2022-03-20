@@ -1,2 +1,2 @@
 # Patika
- patika.dev modülleri
+Patika.dev sitesindeki her bir modül için yapmış olduğum projeler.
